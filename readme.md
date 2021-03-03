@@ -6,8 +6,12 @@ The project description
 * 2
 * 3
 
-
 ## Bugs list
 + 1
 + 2
 + 3
+
+## Feature list
+- 1
+- 2
+- 3
