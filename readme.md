@@ -5,3 +5,9 @@ The project description
 * 1
 * 2
 * 3
+
+
+## Bugs list
++ 1
++ 2
++ 3
